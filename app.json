@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "extradent-app",
+    "slug": "extradent-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
